@@ -15,3 +15,9 @@ My journey to become an AI Engineer.
 
 ##Start Date:
 2026-07-08
+
+## Progress
+
+- ✅ First Python Program
+- ✅ First Git Commit
+- ✅ First GitHub Push
