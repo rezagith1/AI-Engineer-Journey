@@ -1,1 +1,3 @@
 10-AI-Engineer-Book/
+__pycache__/
+*.pyc
